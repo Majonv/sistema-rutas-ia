@@ -1,0 +1,301 @@
+origen,destino,idx_origen,idx_destino,distancia_idx,paradas,horario,horario_cod,pasajeros,lluvia,tiempo_base,tiempo_real_min
+Calle 26,Marly,11,9,2,1,Mañana (6-9h),0,812,1,5,6.7
+Mazuren,Calle 45,2,8,6,4,Mañana (6-9h),0,1146,0,17,22.4
+Portal Norte,Marly,0,9,9,6,Mañana (6-9h),0,847,0,25,31.7
+Calle 26,Portal Norte,11,0,11,7,Mañana (6-9h),0,1087,0,30,39.6
+Paloquemao,Calle 26,12,11,1,1,Noche (20-23h),4,207,0,4,3.4
+Calle 100,Toberin,5,1,4,2,Mañana (6-9h),0,1188,0,9,12.3
+Heroes,Cardio Infantil,6,3,3,2,Tarde (12-16h),2,579,0,11,13.5
+Heroes,Mazuren,6,2,4,3,Mañana (6-9h),0,847,1,13,18.2
+Heroes,Alcala,6,4,2,2,Noche (20-23h),4,167,0,9,8.8
+Marly,Paloquemao,9,12,3,2,Mañana (6-9h),0,993,0,9,11.9
+Calle 26,Heroes,11,6,5,3,Noche (20-23h),4,326,1,12,12.7
+Paloquemao,La Sabana,12,13,1,1,Mañana (6-9h),0,823,0,3,4.7
+Toberin,Calle 72,1,7,6,4,Valle (9-12h),1,351,1,20,22.3
+Calle 26,Calle 45,11,8,3,2,Tarde (12-16h),2,583,1,8,9.7
+Paloquemao,Cardio Infantil,12,3,9,6,Tarde (12-16h),2,536,0,27,29.8
+Alcala,Calle 72,4,7,3,3,Valle (9-12h),1,536,1,14,15.4
+Calle 26,Marly,11,9,2,1,Noche (20-23h),4,156,1,5,6.2
+Portal Sur,Mazuren,14,2,12,9,Mañana (6-9h),0,917,0,40,52.9
+Calle 72,Alcala,7,4,3,3,Tarde (12-16h),2,533,0,14,16.6
+Flores,Calle 100,10,5,5,3,Tarde (12-16h),2,608,1,15,18.7
+Calle 26,Flores,11,10,1,1,Pico tarde (16-20h),3,973,1,6,8.2
+La Sabana,Calle 45,13,8,5,4,Noche (20-23h),4,237,1,15,16.3
+Calle 72,Paloquemao,7,12,5,3,Noche (20-23h),4,202,1,14,13.6
+Mazuren,Calle 45,2,8,6,4,Noche (20-23h),4,226,0,17,16.1
+Mazuren,Portal Norte,2,0,2,1,Valle (9-12h),1,381,1,5,6.0
+Calle 72,Portal Norte,7,0,7,5,Pico tarde (16-20h),3,1205,1,23,35.8
+Flores,Toberin,10,1,9,5,Mañana (6-9h),0,1148,0,24,31.7
+Marly,Paloquemao,9,12,3,2,Tarde (12-16h),2,674,0,9,9.3
+Mazuren,La Sabana,2,13,11,8,Pico tarde (16-20h),3,901,1,32,51.1
+La Sabana,Portal Sur,13,14,1,1,Valle (9-12h),1,559,0,8,9.1
+Calle 100,Calle 72,5,7,2,2,Noche (20-23h),4,255,0,11,8.9
+La Sabana,Portal Sur,13,14,1,1,Valle (9-12h),1,576,0,8,8.3
+Calle 45,Portal Sur,8,14,6,5,Mañana (6-9h),0,857,1,23,35.5
+Portal Sur,Flores,14,10,4,4,Tarde (12-16h),2,622,0,21,22.3
+Flores,Calle 100,10,5,5,3,Mañana (6-9h),0,843,1,15,23.4
+La Sabana,Paloquemao,13,12,1,1,Noche (20-23h),4,296,0,3,2.4000000000000004
+Calle 45,Flores,8,10,2,3,Noche (20-23h),4,142,1,14,14.6
+Calle 26,Toberin,11,1,10,6,Pico tarde (16-20h),3,1008,0,27,37.1
+Calle 72,Alcala,7,4,3,3,Tarde (12-16h),2,724,1,14,16.6
+Alcala,Toberin,4,1,3,3,Mañana (6-9h),0,973,0,12,15.9
+Alcala,Mazuren,4,2,2,1,Noche (20-23h),4,156,0,4,3.2
+Calle 26,Calle 72,11,7,4,2,Mañana (6-9h),0,917,0,10,14.2
+Heroes,Portal Norte,6,0,6,4,Mañana (6-9h),0,1063,0,18,22.7
+Calle 45,La Sabana,8,13,5,4,Valle (9-12h),1,576,0,15,15.7
+Flores,Heroes,10,6,4,2,Noche (20-23h),4,221,0,9,9.0
+Portal Sur,Flores,14,10,4,4,Pico tarde (16-20h),3,997,0,21,27.1
+Calle 72,La Sabana,7,13,6,4,Tarde (12-16h),2,716,1,17,21.4
+La Sabana,Alcala,13,4,9,7,Mañana (6-9h),0,1144,0,28,35.1
+La Sabana,Alcala,13,4,9,7,Tarde (12-16h),2,555,0,28,29.9
+Marly,Paloquemao,9,12,3,2,Pico tarde (16-20h),3,971,1,9,13.0
+Calle 45,Heroes,8,6,2,1,Valle (9-12h),1,338,1,4,5.5
+Flores,Portal Norte,10,0,10,6,Mañana (6-9h),0,825,0,27,36.5
+La Sabana,Flores,13,10,3,3,Valle (9-12h),1,385,1,13,14.9
+Cardio Infantil,La Sabana,3,13,10,7,Pico tarde (16-20h),3,930,0,30,40.1
+Calle 72,Toberin,7,1,6,4,Tarde (12-16h),2,732,1,20,25.1
+La Sabana,Calle 100,13,5,8,6,Noche (20-23h),4,269,1,25,24.8
+Calle 100,Heroes,5,6,1,1,Valle (9-12h),1,329,0,6,6.7
+Toberin,Portal Norte,1,0,1,1,Mañana (6-9h),0,1099,1,3,4.5
+Marly,Flores,9,10,1,2,Valle (9-12h),1,329,0,11,12.1
+Toberin,Alcala,1,4,3,3,Noche (20-23h),4,117,0,12,10.5
+Flores,Calle 100,10,5,5,3,Valle (9-12h),1,596,0,15,15.4
+Calle 72,Flores,7,10,3,1,Noche (20-23h),4,244,1,4,5.4
+Cardio Infantil,Calle 26,3,11,8,5,Tarde (12-16h),2,622,1,23,28.8
+Paloquemao,Cardio Infantil,12,3,9,6,Tarde (12-16h),2,734,1,27,35.4
+Toberin,Calle 100,1,5,4,2,Mañana (6-9h),0,1034,0,9,10.4
+Cardio Infantil,La Sabana,3,13,10,7,Noche (20-23h),4,167,0,30,28.3
+Toberin,Alcala,1,4,3,3,Valle (9-12h),1,489,1,12,12.8
+Marly,Portal Sur,9,14,5,4,Tarde (12-16h),2,770,0,20,22.5
+Flores,Toberin,10,1,9,5,Tarde (12-16h),2,553,0,24,25.7
+Toberin,Portal Sur,1,14,13,9,Noche (20-23h),4,139,1,42,42.8
+Cardio Infantil,Paloquemao,3,12,9,6,Tarde (12-16h),2,604,1,27,34.2
+Alcala,Marly,4,9,5,4,Mañana (6-9h),0,847,1,16,24.9
+Portal Norte,Paloquemao,0,12,12,8,Mañana (6-9h),0,970,0,34,44.6
+Alcala,Paloquemao,4,12,8,6,Valle (9-12h),1,526,1,25,28.9
+Mazuren,Portal Norte,2,0,2,1,Mañana (6-9h),0,1153,0,5,6.6
+Heroes,Calle 26,6,11,5,3,Noche (20-23h),4,241,0,12,10.6
+Portal Norte,Calle 26,0,11,11,7,Tarde (12-16h),2,686,0,30,34.2
+Cardio Infantil,Paloquemao,3,12,9,6,Valle (9-12h),1,352,1,27,31.9
+Calle 72,Heroes,7,6,1,1,Noche (20-23h),4,291,0,5,5.8
+Alcala,Calle 100,4,5,1,1,Valle (9-12h),1,390,1,3,2.4000000000000004
+La Sabana,Heroes,13,6,7,5,Tarde (12-16h),2,710,0,19,20.2
+Portal Sur,Calle 100,14,5,9,7,Mañana (6-9h),0,995,0,33,44.0
+Alcala,Portal Norte,4,0,4,2,Valle (9-12h),1,535,1,9,9.8
+Portal Sur,Calle 72,14,7,7,5,Valle (9-12h),1,414,0,25,25.5
+Calle 72,Alcala,7,4,3,3,Tarde (12-16h),2,642,0,14,16.8
+Calle 100,Toberin,5,1,4,2,Tarde (12-16h),2,760,1,9,11.9
+Marly,Paloquemao,9,12,3,2,Tarde (12-16h),2,514,0,9,11.0
+Alcala,Calle 26,4,11,7,5,Valle (9-12h),1,597,1,21,22.8
+Flores,La Sabana,10,13,3,3,Pico tarde (16-20h),3,1076,1,13,20.0
+Marly,Alcala,9,4,5,4,Mañana (6-9h),0,997,0,16,20.1
+Paloquemao,Portal Sur,12,14,2,2,Pico tarde (16-20h),3,900,0,11,14.4
+Toberin,Alcala,1,4,3,3,Tarde (12-16h),2,660,0,12,13.9
+Calle 100,Calle 72,5,7,2,2,Noche (20-23h),4,179,1,11,10.9
+Paloquemao,Flores,12,10,2,2,Tarde (12-16h),2,783,0,10,10.1
+Paloquemao,Mazuren,12,2,10,7,Pico tarde (16-20h),3,1246,0,29,39.5
+Calle 100,Calle 45,5,8,3,2,Pico tarde (16-20h),3,1180,0,10,12.9
+Cardio Infantil,Paloquemao,3,12,9,6,Pico tarde (16-20h),3,1196,1,27,41.8
+Calle 45,Toberin,8,1,7,4,Valle (9-12h),1,561,1,19,22.7
+Portal Sur,Calle 72,14,7,7,5,Valle (9-12h),1,343,1,25,28.8
+Calle 26,Calle 45,11,8,3,2,Noche (20-23h),4,185,0,8,8.2
+La Sabana,Flores,13,10,3,3,Valle (9-12h),1,458,0,13,13.9
+Mazuren,Flores,2,10,8,5,Mañana (6-9h),0,823,0,22,30.1
+Calle 26,Mazuren,11,2,9,6,Mañana (6-9h),0,1033,1,25,38.5
+Flores,Calle 72,10,7,3,1,Valle (9-12h),1,496,1,4,4.3
+Mazuren,Flores,2,10,8,5,Mañana (6-9h),0,1184,0,22,29.4
+Alcala,Portal Norte,4,0,4,2,Valle (9-12h),1,565,1,9,9.0
+Alcala,Calle 45,4,8,4,3,Mañana (6-9h),0,1033,0,13,17.8
+Paloquemao,Mazuren,12,2,10,7,Noche (20-23h),4,243,1,29,31.4
+Calle 45,Toberin,8,1,7,4,Noche (20-23h),4,308,1,19,20.7
+Flores,Portal Norte,10,0,10,6,Pico tarde (16-20h),3,981,1,27,41.8
+La Sabana,Flores,13,10,3,3,Valle (9-12h),1,441,1,13,15.3
+Calle 100,Portal Norte,5,0,5,3,Pico tarde (16-20h),3,939,1,12,17.8
+Heroes,Toberin,6,1,5,3,Tarde (12-16h),2,776,0,15,15.4
+Alcala,Cardio Infantil,4,3,1,2,Pico tarde (16-20h),3,1255,0,8,11.4
+Toberin,Cardio Infantil,1,3,2,1,Pico tarde (16-20h),3,1108,1,4,6.3
+Calle 72,Marly,7,9,2,3,Mañana (6-9h),0,905,1,12,17.6
+Portal Sur,Toberin,14,1,13,9,Noche (20-23h),4,342,0,42,38.9
+La Sabana,Portal Sur,13,14,1,1,Noche (20-23h),4,197,1,8,6.8
+Heroes,Calle 72,6,7,1,1,Tarde (12-16h),2,699,1,5,6.4
+La Sabana,Heroes,13,6,7,5,Noche (20-23h),4,304,0,19,17.1
+Alcala,Portal Sur,4,14,10,8,Pico tarde (16-20h),3,1148,0,36,48.3
+Paloquemao,Cardio Infantil,12,3,9,6,Pico tarde (16-20h),3,1270,0,27,37.5
+Mazuren,Calle 100,2,5,3,2,Noche (20-23h),4,236,0,7,7.5
+Flores,Paloquemao,10,12,2,2,Noche (20-23h),4,269,0,10,8.0
+Calle 72,Paloquemao,7,12,5,3,Valle (9-12h),1,536,0,14,12.7
+Heroes,Portal Sur,6,14,8,6,Tarde (12-16h),2,608,1,27,33.6
+La Sabana,Paloquemao,13,12,1,1,Pico tarde (16-20h),3,1042,1,3,3.9
+Toberin,Calle 72,1,7,6,4,Pico tarde (16-20h),3,909,0,20,28.5
+Heroes,Calle 100,6,5,1,1,Valle (9-12h),1,335,0,6,6.8
+Alcala,Calle 45,4,8,4,3,Valle (9-12h),1,310,0,13,12.2
+Calle 45,Flores,8,10,2,3,Mañana (6-9h),0,1088,0,14,18.1
+Alcala,Flores,4,10,6,4,Tarde (12-16h),2,585,0,18,20.6
+Mazuren,Portal Sur,2,14,12,9,Tarde (12-16h),2,555,0,40,45.3
+Flores,Calle 72,10,7,3,1,Pico tarde (16-20h),3,1103,0,4,4.1
+Paloquemao,Calle 45,12,8,4,3,Valle (9-12h),1,352,1,12,14.9
+Flores,Portal Sur,10,14,4,4,Mañana (6-9h),0,1089,0,21,26.8
+Calle 72,Paloquemao,7,12,5,3,Tarde (12-16h),2,535,1,14,16.2
+Calle 72,Flores,7,10,3,1,Pico tarde (16-20h),3,954,1,4,7.6
+Calle 26,Calle 45,11,8,3,2,Pico tarde (16-20h),3,1262,0,8,10.6
+La Sabana,Calle 100,13,5,8,6,Noche (20-23h),4,347,1,25,26.2
+Marly,Paloquemao,9,12,3,2,Pico tarde (16-20h),3,1138,1,9,14.9
+Flores,Paloquemao,10,12,2,2,Tarde (12-16h),2,665,0,10,12.0
+Toberin,Marly,1,9,8,5,Tarde (12-16h),2,730,0,22,25.0
+Flores,Calle 100,10,5,5,3,Noche (20-23h),4,271,1,15,15.0
+Marly,Portal Norte,9,0,9,6,Tarde (12-16h),2,593,1,25,30.8
+Portal Sur,Calle 45,14,8,6,5,Tarde (12-16h),2,674,1,23,30.2
+Paloquemao,Calle 26,12,11,1,1,Tarde (12-16h),2,784,0,4,4.4
+Cardio Infantil,Calle 72,3,7,4,3,Mañana (6-9h),0,923,1,16,23.9
+La Sabana,Paloquemao,13,12,1,1,Valle (9-12h),1,543,1,3,3.3
+Portal Norte,Calle 100,0,5,5,3,Mañana (6-9h),0,950,0,12,15.3
+Alcala,Calle 72,4,7,3,3,Tarde (12-16h),2,797,1,14,17.6
+Marly,Flores,9,10,1,2,Tarde (12-16h),2,717,1,11,13.5
+Calle 45,Alcala,8,4,4,3,Tarde (12-16h),2,656,1,13,15.6
+La Sabana,Mazuren,13,2,11,8,Valle (9-12h),1,461,0,32,32.7
+La Sabana,Portal Sur,13,14,1,1,Valle (9-12h),1,398,0,8,8.7
+Calle 100,Portal Norte,5,0,5,3,Noche (20-23h),4,350,1,12,13.9
+Cardio Infantil,Calle 45,3,8,5,3,Tarde (12-16h),2,616,1,15,18.0
+Portal Norte,Alcala,0,4,4,2,Noche (20-23h),4,132,1,9,8.0
+Portal Norte,Portal Sur,0,14,14,10,Noche (20-23h),4,174,0,45,40.9
+La Sabana,Flores,13,10,3,3,Pico tarde (16-20h),3,952,0,13,17.8
+Calle 45,Marly,8,9,1,1,Pico tarde (16-20h),3,1125,1,3,3.7
+Portal Norte,Portal Sur,0,14,14,10,Tarde (12-16h),2,744,0,45,50.5
+Calle 72,Alcala,7,4,3,3,Pico tarde (16-20h),3,937,0,14,17.9
+Portal Sur,Calle 26,14,11,3,3,Noche (20-23h),4,342,1,15,14.3
+Alcala,Calle 45,4,8,4,3,Mañana (6-9h),0,1085,1,13,19.8
+Portal Sur,Heroes,14,6,8,6,Noche (20-23h),4,157,1,27,27.8
+Calle 45,Toberin,8,1,7,4,Tarde (12-16h),2,719,1,19,24.2
+Toberin,Mazuren,1,2,1,2,Noche (20-23h),4,345,0,8,8.5
+Cardio Infantil,Paloquemao,3,12,9,6,Valle (9-12h),1,435,0,27,26.0
+Cardio Infantil,Mazuren,3,2,1,3,Noche (20-23h),4,119,0,12,9.600000000000001
+Calle 45,Cardio Infantil,8,3,5,3,Noche (20-23h),4,220,1,15,14.1
+Calle 100,Cardio Infantil,5,3,2,1,Tarde (12-16h),2,732,0,5,6.1
+Alcala,Paloquemao,4,12,8,6,Noche (20-23h),4,269,0,25,22.3
+Marly,Portal Sur,9,14,5,4,Valle (9-12h),1,376,1,20,24.0
+Toberin,Calle 100,1,5,4,2,Mañana (6-9h),0,884,1,9,13.7
+Flores,Calle 100,10,5,5,3,Tarde (12-16h),2,724,0,15,16.4
+Calle 100,Calle 45,5,8,3,2,Pico tarde (16-20h),3,1039,1,10,15.3
+Flores,Portal Sur,10,14,4,4,Mañana (6-9h),0,1021,1,21,31.7
+Portal Norte,Calle 72,0,7,7,5,Mañana (6-9h),0,917,0,23,31.4
+Paloquemao,Alcala,12,4,8,6,Tarde (12-16h),2,795,0,25,28.3
+Cardio Infantil,Mazuren,3,2,1,3,Pico tarde (16-20h),3,1165,1,12,19.9
+Cardio Infantil,Calle 100,3,5,2,1,Noche (20-23h),4,211,1,5,6.6
+Calle 45,Marly,8,9,1,1,Tarde (12-16h),2,709,1,3,3.3
+Toberin,La Sabana,1,13,12,8,Valle (9-12h),1,468,1,34,39.7
+Calle 100,Cardio Infantil,5,3,2,1,Pico tarde (16-20h),3,1289,0,5,6.6
+Calle 100,Calle 26,5,11,6,4,Tarde (12-16h),2,665,0,18,21.2
+Calle 72,Calle 100,7,5,2,2,Noche (20-23h),4,311,0,11,10.4
+Marly,La Sabana,9,13,4,3,Pico tarde (16-20h),3,1111,0,12,15.3
+Heroes,Marly,6,9,3,2,Noche (20-23h),4,293,1,7,7.6
+La Sabana,Paloquemao,13,12,1,1,Mañana (6-9h),0,904,1,3,4.6
+Calle 100,Cardio Infantil,5,3,2,1,Pico tarde (16-20h),3,1257,1,5,6.6
+Calle 26,Calle 72,11,7,4,2,Noche (20-23h),4,304,0,10,9.6
+Calle 100,Flores,5,10,5,3,Noche (20-23h),4,103,1,15,14.3
+Mazuren,Toberin,2,1,1,2,Pico tarde (16-20h),3,960,0,8,10.8
+La Sabana,Toberin,13,1,12,8,Tarde (12-16h),2,760,1,34,42.8
+Calle 45,Paloquemao,8,12,4,3,Pico tarde (16-20h),3,1024,1,12,18.8
+Calle 72,Portal Norte,7,0,7,5,Valle (9-12h),1,560,0,23,24.1
+Calle 100,Portal Norte,5,0,5,3,Pico tarde (16-20h),3,1074,1,12,19.6
+Calle 100,Mazuren,5,2,3,2,Tarde (12-16h),2,800,1,7,10.0
+Calle 45,Mazuren,8,2,6,4,Noche (20-23h),4,223,1,17,17.1
+La Sabana,Portal Sur,13,14,1,1,Noche (20-23h),4,196,1,8,9.6
+Cardio Infantil,Calle 72,3,7,4,3,Valle (9-12h),1,592,1,16,17.6
+Portal Sur,Mazuren,14,2,12,9,Pico tarde (16-20h),3,922,1,40,62.8
+Paloquemao,La Sabana,12,13,1,1,Pico tarde (16-20h),3,1097,0,3,4.0
+Portal Norte,Flores,0,10,10,6,Valle (9-12h),1,557,1,27,32.2
+Calle 45,Portal Norte,8,0,8,5,Mañana (6-9h),0,1069,1,22,31.4
+Mazuren,Marly,2,9,7,5,Pico tarde (16-20h),3,1235,0,20,25.7
+Portal Sur,Alcala,14,4,10,8,Tarde (12-16h),2,673,1,36,46.0
+Heroes,Portal Norte,6,0,6,4,Noche (20-23h),4,197,1,18,19.0
+La Sabana,Paloquemao,13,12,1,1,Pico tarde (16-20h),3,1177,0,3,4.4
+Alcala,Calle 100,4,5,1,1,Tarde (12-16h),2,616,0,3,3.1
+Toberin,Paloquemao,1,12,11,7,Mañana (6-9h),0,1027,0,31,40.9
+Portal Norte,Calle 45,0,8,8,5,Mañana (6-9h),0,966,0,22,28.0
+Heroes,Paloquemao,6,12,6,4,Pico tarde (16-20h),3,974,0,16,21.7
+Flores,Alcala,10,4,6,4,Valle (9-12h),1,387,0,18,16.7
+Heroes,Portal Sur,6,14,8,6,Noche (20-23h),4,274,0,27,24.3
+Flores,Marly,10,9,1,2,Valle (9-12h),1,418,1,11,13.1
+Calle 45,Calle 100,8,5,3,2,Tarde (12-16h),2,504,1,10,13.9
+Paloquemao,Calle 100,12,5,7,5,Noche (20-23h),4,140,0,22,19.6
+Heroes,Alcala,6,4,2,2,Noche (20-23h),4,176,1,9,9.9
+Calle 45,Alcala,8,4,4,3,Tarde (12-16h),2,601,1,13,17.5
+Toberin,Portal Sur,1,14,13,9,Valle (9-12h),1,495,1,42,48.5
+Paloquemao,Calle 26,12,11,1,1,Tarde (12-16h),2,511,1,4,4.4
+Flores,Alcala,10,4,6,4,Mañana (6-9h),0,1110,1,18,27.9
+Calle 100,Cardio Infantil,5,3,2,1,Valle (9-12h),1,480,0,5,5.4
+Calle 26,Alcala,11,4,7,5,Tarde (12-16h),2,570,0,21,24.3
+Calle 26,Paloquemao,11,12,1,1,Mañana (6-9h),0,958,1,4,4.6
+Heroes,Flores,6,10,4,2,Valle (9-12h),1,346,1,9,9.8
+Calle 72,Marly,7,9,2,3,Valle (9-12h),1,402,0,12,12.9
+Heroes,Flores,6,10,4,2,Noche (20-23h),4,228,1,9,10.3
+Alcala,Flores,4,10,6,4,Pico tarde (16-20h),3,1051,1,18,28.9
+Calle 45,Calle 72,8,7,1,2,Mañana (6-9h),0,872,0,9,12.8
+La Sabana,Cardio Infantil,13,3,10,7,Pico tarde (16-20h),3,1185,1,30,45.3
+Calle 72,Cardio Infantil,7,3,4,3,Mañana (6-9h),0,935,0,16,20.7
+Paloquemao,Alcala,12,4,8,6,Tarde (12-16h),2,799,1,25,32.6
+Heroes,Paloquemao,6,12,6,4,Mañana (6-9h),0,1145,0,16,20.7
+Calle 26,Alcala,11,4,7,5,Noche (20-23h),4,183,0,21,19.3
+Calle 26,Calle 45,11,8,3,2,Pico tarde (16-20h),3,1258,1,8,12.9
+Mazuren,Toberin,2,1,1,2,Valle (9-12h),1,323,0,8,7.4
+Marly,Portal Norte,9,0,9,6,Mañana (6-9h),0,849,0,25,33.7
+Mazuren,Calle 72,2,7,5,4,Pico tarde (16-20h),3,1132,1,18,28.5
+La Sabana,Calle 45,13,8,5,4,Noche (20-23h),4,207,0,15,14.7
+Calle 26,Portal Sur,11,14,3,3,Mañana (6-9h),0,1050,1,15,23.7
+Calle 100,Toberin,5,1,4,2,Mañana (6-9h),0,1153,1,9,12.6
+Calle 45,Toberin,8,1,7,4,Valle (9-12h),1,485,0,19,20.4
+Heroes,Calle 26,6,11,5,3,Noche (20-23h),4,330,1,12,11.1
+Calle 100,Portal Norte,5,0,5,3,Valle (9-12h),1,362,1,12,12.6
+Cardio Infantil,La Sabana,3,13,10,7,Noche (20-23h),4,348,0,30,25.7
+Heroes,Toberin,6,1,5,3,Valle (9-12h),1,364,0,15,13.7
+La Sabana,Portal Sur,13,14,1,1,Noche (20-23h),4,153,0,8,8.1
+Alcala,Cardio Infantil,4,3,1,2,Tarde (12-16h),2,575,0,8,8.1
+Mazuren,Flores,2,10,8,5,Valle (9-12h),1,576,1,22,26.2
+Mazuren,Portal Norte,2,0,2,1,Mañana (6-9h),0,867,0,5,6.1
+Portal Sur,Calle 100,14,5,9,7,Valle (9-12h),1,465,0,33,32.0
+Portal Norte,Portal Sur,0,14,14,10,Valle (9-12h),1,515,0,45,45.7
+Calle 45,Flores,8,10,2,3,Pico tarde (16-20h),3,1298,1,14,21.8
+Toberin,Portal Sur,1,14,13,9,Pico tarde (16-20h),3,1157,0,42,58.0
+Portal Norte,Paloquemao,0,12,12,8,Noche (20-23h),4,177,1,34,35.6
+Portal Norte,Calle 45,0,8,8,5,Mañana (6-9h),0,1045,1,22,32.7
+Toberin,Portal Sur,1,14,13,9,Pico tarde (16-20h),3,1264,1,42,63.9
+Toberin,Calle 72,1,7,6,4,Tarde (12-16h),2,575,0,20,20.9
+Calle 26,Calle 100,11,5,6,4,Noche (20-23h),4,240,1,18,18.3
+Flores,La Sabana,10,13,3,3,Noche (20-23h),4,175,1,13,13.5
+Calle 72,La Sabana,7,13,6,4,Mañana (6-9h),0,1159,0,17,23.2
+Calle 26,La Sabana,11,13,2,2,Noche (20-23h),4,284,0,7,6.1
+Alcala,Mazuren,4,2,2,1,Pico tarde (16-20h),3,1073,1,4,5.9
+La Sabana,Alcala,13,4,9,7,Mañana (6-9h),0,960,1,28,41.3
+Alcala,Flores,4,10,6,4,Tarde (12-16h),2,578,1,18,21.5
+Toberin,Calle 45,1,8,7,4,Mañana (6-9h),0,1021,0,19,25.4
+Heroes,Paloquemao,6,12,6,4,Valle (9-12h),1,584,0,16,16.3
+Flores,Cardio Infantil,10,3,7,4,Noche (20-23h),4,184,0,20,17.7
+Paloquemao,Mazuren,12,2,10,7,Pico tarde (16-20h),3,1269,0,29,40.6
+Flores,Portal Sur,10,14,4,4,Tarde (12-16h),2,680,0,21,23.3
+Cardio Infantil,La Sabana,3,13,10,7,Valle (9-12h),1,546,0,30,31.0
+Heroes,Calle 100,6,5,1,1,Noche (20-23h),4,194,0,6,6.2
+Flores,Heroes,10,6,4,2,Valle (9-12h),1,519,0,9,9.3
+Paloquemao,Portal Norte,12,0,12,8,Tarde (12-16h),2,514,0,34,36.7
+La Sabana,Portal Sur,13,14,1,1,Tarde (12-16h),2,673,1,8,8.6
+Mazuren,Marly,2,9,7,5,Noche (20-23h),4,268,1,20,19.4
+La Sabana,Calle 72,13,7,6,4,Mañana (6-9h),0,846,0,17,21.7
+Calle 45,Alcala,8,4,4,3,Tarde (12-16h),2,580,1,13,15.9
+Calle 100,Portal Sur,5,14,9,7,Noche (20-23h),4,252,0,33,30.9
+Mazuren,Paloquemao,2,12,10,7,Valle (9-12h),1,325,0,29,28.3
+Paloquemao,Toberin,12,1,11,7,Pico tarde (16-20h),3,1148,1,31,47.9
+Cardio Infantil,Portal Sur,3,14,11,8,Noche (20-23h),4,129,1,38,39.1
+Calle 100,Mazuren,5,2,3,2,Noche (20-23h),4,224,1,7,5.9
+Calle 72,Cardio Infantil,7,3,4,3,Noche (20-23h),4,114,0,16,13.5
+Cardio Infantil,La Sabana,3,13,10,7,Valle (9-12h),1,430,1,30,34.0
+Portal Norte,Mazuren,0,2,2,1,Pico tarde (16-20h),3,1282,1,5,6.8
+Heroes,Portal Sur,6,14,8,6,Noche (20-23h),4,280,0,27,24.3
+Paloquemao,Cardio Infantil,12,3,9,6,Tarde (12-16h),2,536,1,27,35.2
+Portal Norte,Calle 26,0,11,11,7,Pico tarde (16-20h),3,909,1,30,47.8
+Calle 100,Calle 26,5,11,6,4,Noche (20-23h),4,209,1,18,19.3
+Calle 72,Marly,7,9,2,3,Tarde (12-16h),2,558,1,12,13.7
+Calle 100,Portal Sur,5,14,9,7,Valle (9-12h),1,535,1,33,36.7
+Toberin,Portal Sur,1,14,13,9,Valle (9-12h),1,523,1,42,48.4
+Calle 72,Cardio Infantil,7,3,4,3,Tarde (12-16h),2,673,0,16,17.1
+Cardio Infantil,Toberin,3,1,2,1,Mañana (6-9h),0,1061,0,4,5.3
+Cardio Infantil,Calle 45,3,8,5,3,Tarde (12-16h),2,679,0,15,15.7
+Mazuren,Flores,2,10,8,5,Tarde (12-16h),2,601,0,22,24.5
