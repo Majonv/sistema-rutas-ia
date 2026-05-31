@@ -1,0 +1,16 @@
+estacion,n_conexiones,tipo_zona,tipo_zona_cod,pasajeros_pico,pasajeros_valle,espera_prom_min,tiempo_medio_conex,posicion_red,incidentes_mes
+Portal Norte,2,residencial_norte,6,832,407,4.4,4.0,0.0,0
+Toberin,2,residencial_norte,6,768,356,2.6,3.5,0.071,0
+Mazuren,2,residencial_norte,6,879,301,2.5,4.5,0.143,6
+Cardio Infantil,2,salud_educacion,1,617,214,5.3,4.5,0.214,0
+Alcala,2,residencial_norte,6,894,290,3.3,3.5,0.286,0
+Calle 100,3,comercial,0,997,415,2.3,4.67,0.357,3
+Heroes,3,transbordo,5,1111,456,3.8,5.0,0.429,6
+Calle 72,2,comercial,0,886,361,5.4,4.5,0.5,8
+Calle 45,2,educacion,3,754,253,5.5,3.5,0.571,3
+Marly,2,salud_educacion,1,695,222,6.3,4.0,0.643,0
+Flores,2,residencial_centro,4,658,224,6.1,5.0,0.714,6
+Calle 26,3,transbordo,5,1298,470,6.5,5.0,0.786,7
+Paloquemao,2,comercial,0,942,339,6.8,3.5,0.857,3
+La Sabana,2,transbordo,5,1120,464,6.2,5.5,0.929,5
+Portal Sur,1,residencial_sur,2,886,345,5.7,8.0,1.0,1

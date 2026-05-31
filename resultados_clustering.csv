@@ -1,0 +1,16 @@
+estacion,cluster,etiqueta_cluster,n_conexiones,pasajeros_pico,tipo_zona,posicion_red
+Portal Norte,2,Grupo C - Estaciones de Baja Densidad,2,832,residencial_norte,0.0
+Toberin,1,Grupo B - Estaciones Intermedias,2,768,residencial_norte,0.071
+Mazuren,1,Grupo B - Estaciones Intermedias,2,879,residencial_norte,0.143
+Cardio Infantil,2,Grupo C - Estaciones de Baja Densidad,2,617,salud_educacion,0.214
+Alcala,1,Grupo B - Estaciones Intermedias,2,894,residencial_norte,0.286
+Calle 100,1,Grupo B - Estaciones Intermedias,3,997,comercial,0.357
+Heroes,0,Grupo A - Estaciones de Alta Demanda,3,1111,transbordo,0.429
+Calle 72,0,Grupo A - Estaciones de Alta Demanda,2,886,comercial,0.5
+Calle 45,2,Grupo C - Estaciones de Baja Densidad,2,754,educacion,0.571
+Marly,2,Grupo C - Estaciones de Baja Densidad,2,695,salud_educacion,0.643
+Flores,0,Grupo A - Estaciones de Alta Demanda,2,658,residencial_centro,0.714
+Calle 26,0,Grupo A - Estaciones de Alta Demanda,3,1298,transbordo,0.786
+Paloquemao,0,Grupo A - Estaciones de Alta Demanda,2,942,comercial,0.857
+La Sabana,0,Grupo A - Estaciones de Alta Demanda,2,1120,transbordo,0.929
+Portal Sur,0,Grupo A - Estaciones de Alta Demanda,1,886,residencial_sur,1.0
